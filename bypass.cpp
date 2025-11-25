@@ -182,15 +182,17 @@ void Bypass::HkNtDeviceIoControlFile(HANDLE FileHandle, HANDLE Event, PIO_APC_RO
 				if (deviceDescriptor) {
 					if (deviceDescriptor->SerialNumberOffset) {
 						auto serial = PCHAR(deviceDescriptor) + deviceDescriptor->SerialNumberOffset;
-						memset(serial, 0, strlen(serial));
-						strcpy(serial, "6959B950");
+						size_t serialLen = strlen(serial);
+						memset(serial, 0, serialLen);
+						strcpy_s(serial, serialLen + 1, "6959B950");
 						std::cout << "[Spoofer & AntiVM] New disk serial " << serial << std::endl;
 					}
 
 					if (deviceDescriptor->ProductIdOffset) {
 						auto productId = PCHAR(deviceDescriptor) + deviceDescriptor->ProductIdOffset;
-						memset(productId, 0, strlen(productId));
-						strcpy(productId, "NSA SSD Disk");
+						size_t productIdLen = strlen(productId);
+						memset(productId, 0, productIdLen);
+						strcpy_s(productId, productIdLen + 1, "NSA SSD Disk");
 						std::cout << "[Spoofer & AntiVM] New disk model " << productId << std::endl;
 					}
 				}

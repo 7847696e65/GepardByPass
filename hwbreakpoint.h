@@ -10,7 +10,7 @@
 
 class HWBreakpoint {
 public:
-	static enum class Condition {
+	enum class Condition {
 		Execute = 0,
 		Write = 1,
 		ReadWrite = 3

@@ -1,0 +1,48 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  pch.cpp
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  addresses.cpp
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  breakpoint.cpp
+  hwbreakpoint.cpp
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  bypass.cpp
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  dllmain.cpp
+  exceptionhandler.cpp
+  heavensgate.cpp
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  hook.cpp
+  ntdll.cpp
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  patternscan.cpp
+  processtools.cpp
+  recvpackethook.cpp
+  threading.cpp
+  utils.cpp
+  winapi.cpp
+D:\Github Projects\GepardByPass\bypass.cpp(377,30): warning C4018: '<': signed/unsigned mismatch
+D:\Github Projects\GepardByPass\bypass.cpp(528,9): warning C4477: 'printf' : format string '%#010x' requires an argument of type 'unsigned int', but variadic argument 1 has type 'PVOID'
+D:\Github Projects\GepardByPass\bypass.cpp(554,36): warning C4101: 'dwNewCall': unreferenced local variable
+D:\Github Projects\GepardByPass\heavensgate.cpp(373): warning C4405: 'retn': identifier is reserved word
+D:\Github Projects\GepardByPass\heavensgate.cpp(423,2): warning C4102: 'Wow64hook': unreferenced label
+D:\Github Projects\GepardByPass\heavensgate.cpp(488,2): warning C4102: 'hookNtDeviceIoControlFile': unreferenced label
+D:\Github Projects\GepardByPass\heavensgate.cpp(494,2): warning C4102: 'hookNtOpenFile': unreferenced label
+D:\Github Projects\GepardByPass\heavensgate.cpp(536,2): warning C4102: 'hookNtQueryDirectoryFileEx': unreferenced label
+D:\Github Projects\GepardByPass\heavensgate.cpp(554,2): warning C4102: 'hookNtUserEnumDisplayDevices': unreferenced label
+     Creating library D:\Github Projects\GepardByPass\Release\usern32.lib and object D:\Github Projects\GepardByPass\Release\usern32.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 958 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GepardBypass.vcxproj -> D:\Github Projects\GepardByPass\Release\usern32.dll

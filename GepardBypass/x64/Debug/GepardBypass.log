@@ -1,0 +1,396 @@
+﻿  pch.cpp
+  addresses.cpp
+  breakpoint.cpp
+D:\Github Projects\GepardByPass\breakpoint.cpp(9,32): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+  (compiling source file '/breakpoint.cpp')
+  
+D:\Github Projects\GepardByPass\breakpoint.cpp(11,8): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+  (compiling source file '/breakpoint.cpp')
+  
+D:\Github Projects\GepardByPass\breakpoint.cpp(12,33): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+  (compiling source file '/breakpoint.cpp')
+  
+D:\Github Projects\GepardByPass\breakpoint.cpp(16,33): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+  (compiling source file '/breakpoint.cpp')
+  
+D:\Github Projects\GepardByPass\breakpoint.cpp(17,4): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+  (compiling source file '/breakpoint.cpp')
+  
+D:\Github Projects\GepardByPass\breakpoint.cpp(18,32): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+  (compiling source file '/breakpoint.cpp')
+  
+D:\Github Projects\GepardByPass\breakpoint.cpp(24,32): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+  (compiling source file '/breakpoint.cpp')
+  
+D:\Github Projects\GepardByPass\breakpoint.cpp(26,8): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+  (compiling source file '/breakpoint.cpp')
+  
+D:\Github Projects\GepardByPass\breakpoint.cpp(27,33): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+  (compiling source file '/breakpoint.cpp')
+  
+D:\Github Projects\GepardByPass\breakpoint.cpp(32,4): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+  (compiling source file '/breakpoint.cpp')
+  
+D:\Github Projects\GepardByPass\breakpoint.cpp(33,32): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+  (compiling source file '/breakpoint.cpp')
+  
+  hwbreakpoint.cpp
+D:\Github Projects\GepardByPass\exceptionhandler.h(7,10): error C1083: Cannot open include file: 'detours.h': No such file or directory
+  (compiling source file '/hwbreakpoint.cpp')
+  
+  bypass.cpp
+D:\Github Projects\GepardByPass\hwbreakpoint.h(13,20): warning C4091: 'static ': ignored on left of 'HWBreakpoint::Condition' when no variable is declared
+  (compiling source file '/bypass.cpp')
+  
+D:\Github Projects\GepardByPass\exceptionhandler.h(7,10): error C1083: Cannot open include file: 'detours.h': No such file or directory
+  (compiling source file '/bypass.cpp')
+  
+  dllmain.cpp
+D:\Github Projects\GepardByPass\hwbreakpoint.h(13,20): warning C4091: 'static ': ignored on left of 'HWBreakpoint::Condition' when no variable is declared
+  (compiling source file '/dllmain.cpp')
+  
+D:\Github Projects\GepardByPass\exceptionhandler.h(7,10): error C1083: Cannot open include file: 'detours.h': No such file or directory
+  (compiling source file '/dllmain.cpp')
+  
+  exceptionhandler.cpp
+D:\Github Projects\GepardByPass\hwbreakpoint.h(13,20): warning C4091: 'static ': ignored on left of 'HWBreakpoint::Condition' when no variable is declared
+  (compiling source file '/exceptionhandler.cpp')
+  
+D:\Github Projects\GepardByPass\exceptionhandler.h(7,10): error C1083: Cannot open include file: 'detours.h': No such file or directory
+  (compiling source file '/exceptionhandler.cpp')
+  
+  heavensgate.cpp
+D:\Github Projects\GepardByPass\hwbreakpoint.h(13,20): warning C4091: 'static ': ignored on left of 'HWBreakpoint::Condition' when no variable is declared
+  (compiling source file '/heavensgate.cpp')
+  
+D:\Github Projects\GepardByPass\exceptionhandler.h(7,10): error C1083: Cannot open include file: 'detours.h': No such file or directory
+  (compiling source file '/heavensgate.cpp')
+  
+  hook.cpp
+D:\Github Projects\GepardByPass\hook.cpp(14,32): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(16,3): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(17,3): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(19,32): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(25,32): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(26,9): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(27,32): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(34,17): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(35,3): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(36,3): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(37,17): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(44,17): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(45,3): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(46,3): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(47,3): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(48,17): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(54,17): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(55,3): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(56,17): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(62,17): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(63,3): warning C4312: 'type cast': conversion from 'DWORD' to 'WORD *' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(64,17): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(70,17): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(71,3): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(72,17): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(77,17): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(78,9): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+  (compiling source file '/hook.cpp')
+  
+D:\Github Projects\GepardByPass\hook.cpp(79,17): warning C4312: 'type cast': conversion from 'DWORD' to 'LPVOID' of greater size
+  (compiling source file '/hook.cpp')
+  
+  ntdll.cpp
+D:\Github Projects\GepardByPass\ntdll.cpp(39,22): warning C4311: 'type cast': pointer truncation from 'LPBYTE' to 'uint32_t'
+  (compiling source file '/ntdll.cpp')
+  
+D:\Github Projects\GepardByPass\ntdll.cpp(39,22): warning C4302: 'type cast': truncation from 'LPBYTE' to 'uint32_t'
+  (compiling source file '/ntdll.cpp')
+  
+D:\Github Projects\GepardByPass\ntdll.cpp(41,22): warning C4312: 'type cast': conversion from 'uint32_t' to 'uint8_t *' of greater size
+  (compiling source file '/ntdll.cpp')
+  
+D:\Github Projects\GepardByPass\ntdll.cpp(46,26): warning C4312: 'type cast': conversion from 'uint32_t' to 'uint32_t *' of greater size
+  (compiling source file '/ntdll.cpp')
+  
+  patternscan.cpp
+  processtools.cpp
+  recvpackethook.cpp
+D:\Github Projects\GepardByPass\recvpackethook.cpp(10,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+  (compiling source file '/recvpackethook.cpp')
+      D:\Github Projects\GepardByPass\recvpackethook.cpp(10,9):
+      consider using '%zd' in the format string
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(14,11): error C2485: '__declspec(identifier)' is not a recognized extended attribute
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(15,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(17,3): error C2065: 'mov': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(17,7): error C2146: syntax error: missing ';' before identifier 'esi'
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(17,7): error C2065: 'esi': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(17,17): error C2760: syntax error: '+' was unexpected here; expected ','
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(17,20): error C2059: syntax error: ']'
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(18,3): error C2065: 'mov': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(18,7): error C2146: syntax error: missing ';' before identifier 'recvBufferAddr'
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(18,23): error C2065: 'esi': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(19,3): error C2065: 'cmp': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(19,7): error C2146: syntax error: missing ';' before identifier 'eax'
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(19,7): error C2065: 'eax': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(20,3): error C2065: 'je': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(20,6): error C2146: syntax error: missing ';' before identifier 'isLoginPacketRecv'
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(20,6): error C2065: 'isLoginPacketRecv': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(21,7): error C2065: 'esi': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(21,3): error C3192: syntax error: '^' is not a prefix operator (did you mean '*'?)
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(21,12): error C2065: 'esi': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(22,3): error C2065: 'mov': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(22,7): error C2146: syntax error: missing ';' before identifier 'si'
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(22,7): error C2065: 'si': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(22,16): error C2760: syntax error: ';' was unexpected here; expected '{'
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(23,3): error C2065: 'mov': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(23,7): error C2146: syntax error: missing ',' before identifier 'recvBufferLen'
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(24,3): error C2065: 'mov': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(24,7): error C2146: syntax error: missing ';' before identifier 'isLoginPacket'
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(25,3): error C2065: 'jmp': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(25,7): error C2146: syntax error: missing ';' before identifier 'endFlow'
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(25,7): error C2065: 'endFlow': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(28,3): error C2065: 'mov': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(28,7): error C2146: syntax error: missing ';' before identifier 'isLoginPacket'
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(29,7): error C2065: 'esi': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(29,3): error C3192: syntax error: '^' is not a prefix operator (did you mean '*'?)
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(29,12): error C2065: 'esi': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(30,3): error C2065: 'mov': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(30,7): error C2146: syntax error: missing ';' before identifier 'si'
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(30,7): error C2065: 'si': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(30,16): error C2760: syntax error: '+' was unexpected here; expected ','
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(30,21): error C2059: syntax error: ']'
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(31,3): error C2065: 'mov': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(31,7): error C2146: syntax error: missing ';' before identifier 'recvBufferLen'
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(31,22): error C2065: 'esi': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(32,3): error C2065: 'jmp': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(32,7): error C2146: syntax error: missing ';' before identifier 'endFlow'
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(32,7): error C2065: 'endFlow': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(35,3): error C2065: 'mov': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(35,7): error C2146: syntax error: missing ';' before identifier 'esi'
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(35,7): error C2065: 'esi': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(36,3): error C2065: 'pushad': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(37,3): error C2065: 'call': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(37,24): error C2143: syntax error: missing ';' before 'RecvPacketHook::OnReceivePacket'
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(37,24): warning C4551: function call missing argument list
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(38,3): error C2065: 'popad': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(39,3): error C2065: 'pop': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(39,7): error C2146: syntax error: missing ';' before identifier 'esi'
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(39,7): error C2065: 'esi': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(40,3): error C2065: 'jmp': undeclared identifier
+  (compiling source file '/recvpackethook.cpp')
+  
+D:\Github Projects\GepardByPass\recvpackethook.cpp(40,7): error C2146: syntax error: missing ';' before identifier 'g_addresses'
+  (compiling source file '/recvpackethook.cpp')
+  
+  threading.cpp
+D:\Github Projects\GepardByPass\threading.cpp(27,6): error C2039: 'Eax': is not a member of '_CONTEXT'
+  (compiling source file '/threading.cpp')
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(4206,54):
+      see declaration of '_CONTEXT'
+  
+D:\Github Projects\GepardByPass\threading.cpp(27,12): warning C4311: 'type cast': pointer truncation from 'LPVOID' to 'DWORD'
+  (compiling source file '/threading.cpp')
+  
+D:\Github Projects\GepardByPass\threading.cpp(27,12): warning C4302: 'type cast': truncation from 'LPVOID' to 'DWORD'
+  (compiling source file '/threading.cpp')
+  
+D:\Github Projects\GepardByPass\threading.cpp(47,52): error C2664: 'unsigned long HandleToULong(const void *)': cannot convert argument 1 from 'DWORD' to 'const void *'
+  (compiling source file '/threading.cpp')
+      D:\Github Projects\GepardByPass\threading.cpp(47,84):
+      Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\basetsd.h(177,1):
+      see declaration of 'HandleToULong'
+      D:\Github Projects\GepardByPass\threading.cpp(47,52):
+      while trying to match the argument list '(DWORD)'
+  
+D:\Github Projects\GepardByPass\threading.cpp(68,55): error C2664: 'unsigned long HandleToULong(const void *)': cannot convert argument 1 from 'DWORD' to 'const void *'
+  (compiling source file '/threading.cpp')
+      D:\Github Projects\GepardByPass\threading.cpp(68,87):
+      Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\basetsd.h(177,1):
+      see declaration of 'HandleToULong'
+      D:\Github Projects\GepardByPass\threading.cpp(68,55):
+      while trying to match the argument list '(DWORD)'
+  
+D:\Github Projects\GepardByPass\threading.cpp(88,19): warning C4244: 'initializing': conversion from 'DWORD64' to 'DWORD', possible loss of data
+  (compiling source file '/threading.cpp')
+  
+D:\Github Projects\GepardByPass\threading.cpp(89,25): warning C4311: 'type cast': pointer truncation from 'DWORD64 *' to 'DWORD'
+  (compiling source file '/threading.cpp')
+  
+D:\Github Projects\GepardByPass\threading.cpp(89,25): warning C4302: 'type cast': truncation from 'DWORD64 *' to 'DWORD'
+  (compiling source file '/threading.cpp')
+  
+D:\Github Projects\GepardByPass\threading.cpp(100,19): warning C4244: 'initializing': conversion from 'DWORD64' to 'DWORD', possible loss of data
+  (compiling source file '/threading.cpp')
+  
+  utils.cpp
+  winapi.cpp
+  Generating Code...
